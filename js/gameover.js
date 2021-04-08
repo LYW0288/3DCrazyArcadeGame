@@ -57,7 +57,7 @@ function btn_out(){
     document.getElementById("exit").style.display = '';
 }
 function gameexit(){
-    window.location.href = "menu.html";
+    window.location.href = "index.html";
 }
 window.onload = function (){
     myMove();
